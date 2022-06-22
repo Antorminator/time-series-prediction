@@ -4,7 +4,7 @@ Autor: Antonio Jesús Acosta López
 
 Fecha: 20/05/2022
 
-Realizado para la asignatura de *Programación de Inteligencia Artificial* del ***Curso de Especialización en Inteligencia Artificial y Big Data importido en el IES Punta del Verde***.
+Realizado para la asignatura de *Programación de Inteligencia Artificial* del ***Curso de Especialización en Inteligencia Artificial y Big Data impartido en el [IES Punta del Verde](http://iespuntadelverde.es)***.
 
 ## Contexto
 El objetivo de este proyecto es analizar los datos de red procedentes de un dispositivo *BRAS (Broadband Remote Access Server)* y utilizar ***Machine Learning*** poder realizar predicciones de su tráfico futuro, con idea de anticipar medidas de *capacity planning* a los elementos dependientes de dicho tráfico.
